@@ -20,4 +20,4 @@ $ npm run server
 ```
 
 ### Access game
-###### http://www.phasershooter.com
+
